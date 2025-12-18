@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 👾
+
+- I lead [Letta](https://www.letta.com), an AI company focused on building **stateful agents** that can remember & learn like humans do
+  - We're hiring: [apply to join our team](https://jobs.ashbyhq.com/letta)
+- Previously: AI PhD at UC Berkeley (research on RL + LLM agents, made [MemGPT](https://research.memgpt.ai))
+
 <!--
 **FoxcodeLearn/FoxcodeLearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
